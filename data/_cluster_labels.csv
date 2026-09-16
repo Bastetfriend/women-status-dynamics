@@ -1,0 +1,192 @@
+﻿code,entity,region,edi,idv,gini_mkt,labsh,beta,edi_tier,idv_tier,gini_tier,labsh_tier,beta_tier
+AFG,Afghanistan,Asia,0.069,,33.3,,0.49179187,authoritarian,no_data,low_inequality,no_data,mid
+AGO,Angola,Africa,0.344,,52.1,0.2849252792420212,0.56598818,hybrid,no_data,high_inequality,low_labsh,low_mobility
+ALB,Albania,Europe,0.484,,50.8,0.8200110362635714,0.44250646,hybrid,no_data,high_inequality,high_labsh,mid
+ARE,United Arab Emirates,Asia,0.104,,31.3,,,authoritarian,no_data,low_inequality,no_data,no_data
+ARG,Argentina,South America,0.69,46.0,40.0,0.4606321160052273,0.39646333,democratic,mid,low_inequality,low_labsh,mid
+ARM,Armenia,Asia,0.614,,45.2,0.6270922702901505,0.29129103,hybrid,no_data,mid,high_labsh,high_mobility
+AUS,Australia,Oceania,0.844,90.0,48.1,0.6332933185873805,0.27254662,democratic,individualist,high_inequality,high_labsh,high_mobility
+AUT,Austria,Europe,0.839,55.0,49.4,0.6115665073330337,0.33349392,democratic,mid,high_inequality,high_labsh,high_mobility
+AZE,Azerbaijan,Asia,0.171,,39.4,0.3654069330762415,0.10012827,authoritarian,no_data,low_inequality,low_labsh,high_mobility
+BDI,Burundi,Africa,0.185,,40.1,0.7007562707770957,0.57862121,authoritarian,no_data,low_inequality,high_labsh,low_mobility
+BEL,Belgium,Europe,0.889,75.0,48.1,0.6437478669591852,0.38026047,democratic,individualist,high_inequality,high_labsh,mid
+BEN,Benin,Africa,0.493,,44.8,0.6274457912553437,0.71151412,hybrid,no_data,mid,high_labsh,low_mobility
+BFA,Burkina Faso,Africa,0.134,,42.7,0.4839036336311927,1.0438519,authoritarian,no_data,mid,mid,low_mobility
+BGD,Bangladesh,Asia,0.195,20.0,36.3,,0.55381626,authoritarian,collectivist,low_inequality,no_data,low_mobility
+BGR,Bulgaria,Europe,0.599,30.0,49.6,0.4572954100591166,0.56700987,hybrid,mid,high_inequality,low_labsh,low_mobility
+BHR,Bahrain,Asia,0.139,,50.2,0.3154992555026656,,authoritarian,no_data,high_inequality,low_labsh,no_data
+BIH,Bosnia and Herzegovina,Europe,0.498,,49.6,0.654809371513479,0.42055288,hybrid,no_data,high_inequality,high_labsh,mid
+BLR,Belarus,Europe,0.163,,33.3,0.5563408504514135,0.18837635,authoritarian,no_data,low_inequality,mid,high_mobility
+BOL,Bolivia,South America,0.605,,37.6,0.5162735037706994,0.94905984,hybrid,no_data,low_inequality,mid,low_mobility
+BRA,Brazil,South America,0.784,38.0,57.6,0.5347926826090424,0.65391201,democratic,mid,high_inequality,mid,low_mobility
+BRB,Barbados,North America,0.797,,45.9,0.746558781713247,,democratic,no_data,mid,high_labsh,no_data
+BTN,Bhutan,Asia,0.566,,38.6,,0.79511064,hybrid,no_data,low_inequality,no_data,low_mobility
+BWA,Botswana,Africa,0.665,,61.1,0.3192073013633493,0.25690684,democratic,no_data,high_inequality,low_labsh,high_mobility
+CAF,Central African Republic,Africa,0.293,,52.1,0.204247444868088,0.51230317,authoritarian,no_data,high_inequality,low_labsh,mid
+CAN,Canada,North America,0.84,80.0,46.4,0.6908229194782877,0.25036272,democratic,individualist,mid,high_labsh,high_mobility
+CHE,Switzerland,Europe,0.882,68.0,44.6,0.6492418662921801,0.33831581,democratic,individualist,mid,high_labsh,high_mobility
+CHL,Chile,South America,0.839,23.0,48.8,0.4457376611559357,0.3575891,democratic,collectivist,high_inequality,low_labsh,high_mobility
+CHN,China,Asia,0.072,20.0,47.3,0.5851118076178765,0.49308044,authoritarian,collectivist,high_inequality,high_labsh,mid
+CIV,Cote d'Ivoire,Africa,0.394,,,0.5419095130637286,0.57867104,hybrid,no_data,no_data,mid,low_mobility
+CMR,Cameroon,Africa,0.26,,46.7,0.5969515489414334,0.53097129,authoritarian,no_data,mid,high_labsh,mid
+COD,Democratic Republic of Congo,Africa,0.306,,,,0.45483041,hybrid,no_data,no_data,no_data,mid
+COG,Congo,Africa,0.243,,,,0.63039666,authoritarian,no_data,no_data,no_data,low_mobility
+COL,Colombia,South America,0.679,13.0,55.2,0.476315368268941,0.82681662,democratic,collectivist,high_inequality,low_labsh,low_mobility
+COM,Comoros,Africa,0.293,,42.9,,0.57169479,authoritarian,no_data,mid,no_data,low_mobility
+CPV,Cape Verde,Africa,0.745,,50.6,0.5841785127466378,0.43954128,democratic,no_data,high_inequality,high_labsh,mid
+CRI,Costa Rica,North America,0.862,15.0,49.4,0.5505802514585288,0.4033885,democratic,collectivist,high_inequality,mid,mid
+CUB,Cuba,North America,0.176,,,,,authoritarian,no_data,no_data,no_data,no_data
+CYP,Cyprus,Europe,0.773,,48.3,0.5299654099586845,0.29549772,democratic,no_data,high_inequality,mid,high_mobility
+CZE,Czechia,Europe,0.849,58.0,,0.5141990842188107,0.5650965,democratic,mid,no_data,mid,low_mobility
+DEU,Germany,Europe,0.828,67.0,51.7,0.6659892322243873,0.49156564,democratic,individualist,high_inequality,high_labsh,mid
+DJI,Djibouti,Africa,0.25,,44.8,0.6199532720175659,0.24724992,authoritarian,no_data,mid,high_labsh,high_mobility
+DNK,Denmark,Europe,0.913,74.0,49.7,0.6385476540874792,0.44558448,democratic,individualist,high_inequality,high_labsh,mid
+DOM,Dominican Republic,North America,0.735,,38.8,0.5647534683142624,0.75215524,democratic,no_data,low_inequality,mid,low_mobility
+DZA,Algeria,Africa,0.265,,35.3,,,authoritarian,no_data,low_inequality,no_data,no_data
+ECU,Ecuador,South America,0.607,8.0,41.3,0.4988238151009017,0.78624445,hybrid,collectivist,mid,mid,low_mobility
+EGY,Egypt,Africa,0.187,,33.9,0.3838915696015232,0.6389758,authoritarian,no_data,low_inequality,low_labsh,low_mobility
+ERI,Eritrea,Africa,0.069,,,,,authoritarian,no_data,no_data,no_data,no_data
+ESP,Spain,Europe,0.822,51.0,48.7,0.6405104511492962,0.78427309,democratic,mid,high_inequality,high_labsh,low_mobility
+EST,Estonia,Europe,0.887,60.0,45.3,0.588887449573068,0.26833642,democratic,individualist,mid,high_labsh,high_mobility
+ETH,Ethiopia,Africa,0.257,,34.3,,0.2683222,authoritarian,no_data,low_inequality,no_data,high_mobility
+FIN,Finland,Europe,0.852,63.0,49.9,0.6207935600667387,0.27744961,democratic,individualist,high_inequality,high_labsh,high_mobility
+FJI,Fiji,Oceania,0.507,,38.9,0.5478723848407919,0.28868973,hybrid,no_data,low_inequality,mid,high_mobility
+FRA,France,Europe,0.865,71.0,51.7,0.6685325374474398,0.35473481,democratic,individualist,high_inequality,high_labsh,high_mobility
+GAB,Gabon,Africa,0.302,,42.0,0.3674294673837721,0.77072912,hybrid,no_data,mid,low_labsh,low_mobility
+GBR,United Kingdom,Europe,0.772,89.0,51.7,0.600969434589953,0.42950875,democratic,individualist,high_inequality,high_labsh,mid
+GEO,Georgia,Asia,0.401,,45.4,0.390449575641576,0.44109866,hybrid,no_data,mid,low_labsh,mid
+GHA,Ghana,Africa,0.711,,45.3,,0.58741295,democratic,no_data,mid,no_data,low_mobility
+GIN,Guinea,Africa,0.187,,38.0,0.3050314492800021,0.70899206,authoritarian,no_data,low_inequality,low_labsh,low_mobility
+GMB,Gambia,Africa,0.641,,42.5,,0.57291788,hybrid,no_data,mid,no_data,low_mobility
+GNB,Guinea-Bissau,Africa,0.252,,41.9,,0.7179395,authoritarian,no_data,mid,no_data,low_mobility
+GNQ,Equatorial Guinea,Africa,0.172,,45.1,,,authoritarian,no_data,mid,no_data,no_data
+GRC,Greece,Europe,0.741,35.0,50.3,0.5096705780453878,0.25112069,democratic,mid,high_inequality,mid,high_mobility
+GTM,Guatemala,North America,0.637,6.0,45.8,0.4615524455502227,0.84512728,hybrid,collectivist,mid,low_labsh,low_mobility
+GUY,Guyana,South America,0.515,,49.4,,,hybrid,no_data,high_inequality,no_data,no_data
+HKG,Hong Kong,Asia,0.151,25.0,46.7,0.4840586534701286,,authoritarian,collectivist,mid,mid,no_data
+HND,Honduras,North America,0.511,,43.5,0.5849536734598654,0.55099291,hybrid,no_data,mid,high_labsh,low_mobility
+HRV,Croatia,Europe,0.686,33.0,44.8,0.6332109254949233,0.39628386,democratic,mid,mid,high_labsh,mid
+HTI,Haiti,North America,0.238,,58.7,,0.53479397,authoritarian,no_data,high_inequality,no_data,mid
+HUN,Hungary,Europe,0.421,80.0,48.1,0.614301695867821,0.47115165,hybrid,individualist,high_inequality,high_labsh,mid
+IDN,Indonesia,Asia,0.462,14.0,39.8,0.5075492663308977,0.38034058,hybrid,collectivist,low_inequality,mid,mid
+IND,India,Asia,0.377,48.0,42.6,0.6559116502065916,0.84007704,hybrid,mid,mid,high_labsh,low_mobility
+IRL,Ireland,Europe,0.887,70.0,49.0,0.5531242662990417,0.34670544,democratic,individualist,high_inequality,mid,high_mobility
+IRN,Iran,Asia,0.159,41.0,38.2,0.4058974337750588,0.33940461,authoritarian,mid,low_inequality,low_labsh,high_mobility
+IRQ,Iraq,Asia,0.369,,36.3,0.1997669333661041,0.5032202,hybrid,no_data,low_inequality,low_labsh,mid
+ISL,Iceland,Europe,0.807,,36.8,0.6599162309556398,0.46135426,democratic,no_data,low_inequality,high_labsh,mid
+ISR,Israel,Asia,0.694,54.0,48.1,0.5323023844409636,0.17280401,democratic,mid,high_inequality,mid,high_mobility
+ITA,Italy,Europe,0.745,76.0,51.9,0.5643905715362447,0.43336233,democratic,individualist,high_inequality,mid,mid
+JAM,Jamaica,North America,0.805,39.0,45.9,0.5638235509395602,,democratic,mid,mid,mid,no_data
+JOR,Jordan,Asia,0.282,,42.0,0.4814781197479793,0.34986648,authoritarian,no_data,mid,low_labsh,high_mobility
+JPN,Japan,Asia,0.819,46.0,46.4,0.557516727898572,0.32798016,democratic,mid,mid,mid,high_mobility
+KAZ,Kazakhstan,Asia,0.259,,36.0,0.4552731557803995,0.31931901,authoritarian,no_data,low_inequality,low_labsh,high_mobility
+KEN,Kenya,Africa,0.563,,43.8,0.5391048265470042,0.36993116,hybrid,no_data,mid,mid,high_mobility
+KGZ,Kyrgyzstan,Asia,0.313,,40.7,0.5120810182655559,0.24547796,hybrid,no_data,mid,mid,high_mobility
+KHM,Cambodia,Asia,0.183,,36.8,,0.67508948,authoritarian,no_data,low_inequality,no_data,low_mobility
+KOR,South Korea,Asia,0.819,18.0,,0.4925991200225455,0.17595127,democratic,collectivist,no_data,mid,high_mobility
+KWT,Kuwait,Asia,0.138,,37.5,0.2356404397222729,,authoritarian,no_data,low_inequality,low_labsh,no_data
+LAO,Laos,Asia,0.135,,38.3,0.4104064682667907,0.008134285,authoritarian,no_data,low_inequality,low_labsh,high_mobility
+LBN,Lebanon,Asia,0.419,,37.7,0.444517523050308,0.43289417,hybrid,no_data,low_inequality,low_labsh,mid
+LBR,Liberia,Africa,0.597,,38.1,,0.32131243,hybrid,no_data,low_inequality,no_data,high_mobility
+LBY,Libya,Africa,0.193,,33.6,,,authoritarian,no_data,low_inequality,no_data,no_data
+LKA,Sri Lanka,Asia,0.783,,43.0,0.4029560930825568,0.44706172,democratic,no_data,mid,low_labsh,mid
+LSO,Lesotho,Africa,0.661,,56.0,0.6817659382466918,0.49052295,democratic,no_data,high_inequality,high_labsh,mid
+LTU,Lithuania,Europe,0.786,60.0,50.9,0.5206717515692993,0.23517776,democratic,individualist,high_inequality,mid,high_mobility
+LUX,Luxembourg,Europe,0.869,60.0,45.7,0.5002081672082077,,democratic,individualist,mid,mid,no_data
+LVA,Latvia,Europe,0.834,70.0,46.2,0.5505840603043052,0.35718161,democratic,individualist,mid,mid,high_mobility
+MAR,Morocco,Africa,0.259,46.0,42.2,0.5152667358114912,0.55916816,authoritarian,mid,mid,mid,low_mobility
+MDA,Moldova,Europe,0.553,,47.7,0.5736368885811638,0.21141309,hybrid,no_data,high_inequality,mid,high_mobility
+MDG,Madagascar,Africa,0.361,,43.5,,0.55950725,hybrid,no_data,mid,no_data,low_mobility
+MDV,Maldives,Asia,0.556,,37.2,,0.10447827,hybrid,no_data,low_inequality,no_data,high_mobility
+MEX,Mexico,North America,0.469,30.0,43.1,0.3776846669010214,0.72879547,hybrid,mid,mid,low_labsh,low_mobility
+MKD,North Macedonia,Europe,0.562,,53.5,0.5890115850112018,0.86085033,hybrid,no_data,high_inequality,high_labsh,low_mobility
+MLI,Mali,Africa,0.164,,36.3,,0.82775646,authoritarian,no_data,low_inequality,no_data,low_mobility
+MLT,Malta,Europe,0.783,59.0,46.4,0.5757415213755199,,democratic,individualist,mid,mid,no_data
+MMR,Myanmar,Asia,0.08,,35.2,,0.84547442,authoritarian,no_data,low_inequality,no_data,low_mobility
+MNE,Montenegro,Europe,0.636,,51.3,,0.52901596,hybrid,no_data,high_inequality,no_data,mid
+MNG,Mongolia,Asia,0.535,,35.1,0.3849106309088795,0.13815506,hybrid,no_data,low_inequality,low_labsh,high_mobility
+MOZ,Mozambique,Africa,0.279,,50.9,0.4714844953268765,0.58503616,authoritarian,no_data,high_inequality,low_labsh,low_mobility
+MRT,Mauritania,Africa,0.328,,37.5,0.4708164632320402,0.42666566,hybrid,no_data,low_inequality,low_labsh,mid
+MUS,Mauritius,Africa,0.738,,39.9,0.4894522613770251,0.15228297,democratic,no_data,low_inequality,mid,high_mobility
+MWI,Malawi,Africa,0.557,,45.8,,0.51470315,hybrid,no_data,mid,no_data,mid
+MYS,Malaysia,Asia,0.504,26.0,41.2,0.3230114492817199,0.51053548,hybrid,collectivist,mid,low_labsh,mid
+NAM,Namibia,Africa,0.633,,67.1,0.6017472511157392,0.36767989,hybrid,no_data,high_inequality,high_labsh,high_mobility
+NER,Niger,Africa,0.227,,38.4,0.4800854106433688,0.47105789,authoritarian,no_data,low_inequality,low_labsh,mid
+NGA,Nigeria,Africa,0.505,,40.1,0.3223442358745112,0.37357828,hybrid,no_data,low_inequality,low_labsh,high_mobility
+NIC,Nicaragua,North America,0.151,,49.0,0.5393483178182085,0.60546744,authoritarian,no_data,high_inequality,mid,low_mobility
+NLD,Netherlands,Europe,0.832,80.0,47.4,0.6536427244946765,0.49479988,democratic,individualist,high_inequality,high_labsh,mid
+NOR,Norway,Europe,0.89,69.0,47.0,0.5207437027145075,0.37615308,democratic,individualist,mid,mid,high_mobility
+NPL,Nepal,Asia,0.656,,36.4,,0.86582965,hybrid,no_data,low_inequality,no_data,low_mobility
+NZL,New Zealand,Oceania,0.849,79.0,47.6,0.5887418075187788,0.1619432,democratic,individualist,high_inequality,high_labsh,high_mobility
+OMN,Oman,Asia,0.175,,36.8,0.3269241990314588,,authoritarian,no_data,low_inequality,low_labsh,no_data
+OWID_AFR,Africa,,0.37189287,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_ASI,Asia,,0.32614285,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_DRV,Democratic Republic of Vietnam,Asia,0.215,,,,,authoritarian,no_data,no_data,no_data,no_data
+OWID_EUR,Europe,,0.70592684,,,,,democratic,no_data,no_data,no_data,no_data
+OWID_GDR,East Germany,Europe,0.707,,,,,democratic,no_data,no_data,no_data,no_data
+OWID_GFR,West Germany,Europe,0.892,,,,,democratic,no_data,no_data,no_data,no_data
+OWID_NAM,North America,,0.58606666,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_OCE,Oceania,,0.682,,,,,democratic,no_data,no_data,no_data,no_data
+OWID_PMA,Parma,,0.043,,,,,authoritarian,no_data,no_data,no_data,no_data
+OWID_RVN,Republic of Vietnam,Asia,0.315,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_SAM,South America,,0.64925,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_SML,Somaliland,,0.445,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_TUS,Tuscany,,0.126,,,,,authoritarian,no_data,no_data,no_data,no_data
+OWID_WRL,World,,0.48281565,,,,,hybrid,no_data,no_data,no_data,no_data
+OWID_YAR,Yemen Arab Republic,Asia,0.224,,,,,authoritarian,no_data,no_data,no_data,no_data
+OWID_YPR,Yemen People's Republic,Asia,0.132,,,,,authoritarian,no_data,no_data,no_data,no_data
+OWID_ZAN,Zanzibar,,0.309,,,,,hybrid,no_data,no_data,no_data,no_data
+PAK,Pakistan,Asia,0.302,14.0,34.1,,0.53309971,hybrid,collectivist,low_inequality,no_data,mid
+PAN,Panama,North America,0.728,11.0,50.2,0.4411408375610003,0.63924366,democratic,collectivist,high_inequality,low_labsh,low_mobility
+PER,Peru,South America,0.667,16.0,45.3,0.5463817268610001,0.38955319,democratic,collectivist,mid,mid,mid
+PHL,Philippines,Asia,0.392,32.0,40.3,0.4369663620317304,0.25488123,hybrid,mid,low_inequality,low_labsh,high_mobility
+PNG,Papua New Guinea,Oceania,0.467,,48.6,,0.36874709,hybrid,no_data,high_inequality,no_data,high_mobility
+POL,Poland,Europe,0.768,60.0,46.4,0.575993010291347,0.46150252,democratic,individualist,mid,mid,mid
+PRK,North Korea,Asia,0.083,,,,,authoritarian,no_data,no_data,no_data,no_data
+PRT,Portugal,Europe,0.822,27.0,49.9,0.6568014798937616,0.48136628,democratic,collectivist,high_inequality,high_labsh,mid
+PRY,Paraguay,South America,0.581,,46.9,0.4631669692797204,0.62797111,hybrid,no_data,mid,low_labsh,low_mobility
+QAT,Qatar,Asia,0.034,,39.1,0.2639010465807385,,authoritarian,no_data,low_inequality,low_labsh,no_data
+ROU,Romania,Europe,0.605,30.0,42.9,0.5610232586041095,0.54568124,hybrid,mid,mid,mid,mid
+RUS,Russia,Europe,0.17,39.0,42.6,0.5163819991490421,0.32659701,authoritarian,mid,mid,mid,high_mobility
+RWA,Rwanda,Africa,0.193,,49.4,0.75841261446476,0.47168246,authoritarian,no_data,high_inequality,high_labsh,mid
+SAU,Saudi Arabia,Asia,0.016,,49.3,0.3248771578073502,,authoritarian,no_data,high_inequality,low_labsh,no_data
+SDN,Sudan,Africa,0.13,,46.2,0.7247092856301202,0.96075016,authoritarian,no_data,mid,high_labsh,low_mobility
+SEN,Senegal,Africa,0.633,,41.3,0.4899108721874652,0.72357816,hybrid,no_data,mid,mid,low_mobility
+SGP,Singapore,Asia,0.434,20.0,41.3,0.4299780433066191,,hybrid,collectivist,mid,low_labsh,no_data
+SLB,Solomon Islands,Oceania,0.696,,44.1,,0.57691717,democratic,no_data,mid,no_data,low_mobility
+SLE,Sierra Leone,Africa,0.471,,41.0,0.5435487871820277,0.6071074,hybrid,no_data,mid,mid,low_mobility
+SLV,El Salvador,North America,0.321,19.0,36.5,0.4842485937536978,0.48509118,hybrid,collectivist,low_inequality,mid,mid
+SOM,Somalia,Africa,0.165,,37.3,,,authoritarian,no_data,low_inequality,no_data,no_data
+SRB,Serbia,Europe,0.3,25.0,50.0,0.6297668534166673,0.40267646,authoritarian,collectivist,high_inequality,high_labsh,mid
+SSD,South Sudan,Africa,0.133,,48.2,,0.58704418,authoritarian,no_data,high_inequality,no_data,low_mobility
+STP,Sao Tome and Principe,Africa,0.632,,,0.738317966461182,0.32833943,hybrid,no_data,no_data,high_labsh,high_mobility
+SUR,Suriname,South America,0.781,47.0,47.9,0.4659619553416386,,democratic,mid,high_inequality,low_labsh,no_data
+SVK,Slovakia,Europe,0.733,52.0,37.0,0.5123174067805795,0.41270131,democratic,mid,low_inequality,mid,mid
+SVN,Slovenia,Europe,0.692,27.0,40.4,0.6606824766187107,0.40748894,democratic,collectivist,low_inequality,high_labsh,mid
+SWE,Sweden,Europe,0.889,71.0,49.2,0.6376914551129214,0.34454814,democratic,individualist,high_inequality,high_labsh,high_mobility
+SWZ,Eswatini,Africa,0.128,,54.6,0.6270017718726938,0.43353063,authoritarian,no_data,high_inequality,high_labsh,mid
+SYC,Seychelles,Africa,0.76,,39.6,,,democratic,no_data,low_inequality,no_data,no_data
+SYR,Syria,Asia,0.128,,35.2,,,authoritarian,no_data,low_inequality,no_data,no_data
+TCD,Chad,Africa,0.242,,42.5,0.4692161702550948,0.81650531,authoritarian,no_data,mid,low_labsh,low_mobility
+TGO,Togo,Africa,0.351,,44.5,0.6018495796756311,1.2253147,hybrid,no_data,mid,high_labsh,low_mobility
+THA,Thailand,Asia,0.424,20.0,38.4,0.4394572232220626,0.31678095,hybrid,collectivist,low_inequality,low_labsh,high_mobility
+TJK,Tajikistan,Asia,0.158,,43.4,0.4592365920543671,0.38518548,authoritarian,no_data,mid,low_labsh,mid
+TKM,Turkmenistan,Asia,0.148,,43.1,,,authoritarian,no_data,mid,no_data,no_data
+TLS,East Timor,Asia,0.736,,,,1.2218089,democratic,no_data,no_data,no_data,low_mobility
+TTO,Trinidad and Tobago,North America,0.786,16.0,46.2,0.4876633004562277,,democratic,collectivist,mid,mid,no_data
+TUN,Tunisia,Africa,0.395,,39.3,0.5356519347988072,0.60772079,hybrid,no_data,low_inequality,mid,low_mobility
+TUR,Turkey,Asia,0.293,37.0,46.9,0.428521766453176,0.39141187,authoritarian,mid,mid,low_labsh,mid
+TWN,Taiwan,Asia,0.801,17.0,32.1,0.7247490850213456,0.34553161,democratic,collectivist,low_inequality,high_labsh,high_mobility
+TZA,Tanzania,Africa,0.365,,40.6,0.4785328651778402,0.40290028,hybrid,no_data,low_inequality,low_labsh,mid
+UGA,Uganda,Africa,0.253,,45.6,,0.51756573,authoritarian,no_data,mid,no_data,mid
+UKR,Ukraine,Europe,0.386,,32.7,0.5539983300601738,0.4626219,hybrid,no_data,low_inequality,mid,mid
+URY,Uruguay,South America,0.862,36.0,49.6,0.5141803102718815,0.54940313,democratic,mid,high_inequality,mid,low_mobility
+USA,United States,North America,0.735,91.0,52.5,0.6167349493181384,0.32846853,democratic,individualist,high_inequality,high_labsh,high_mobility
+UZB,Uzbekistan,Asia,0.218,,40.4,0.4192721177549923,0.30667275,authoritarian,no_data,low_inequality,low_labsh,high_mobility
+VEN,Venezuela,South America,0.181,12.0,37.1,0.4352223078745441,0.35417426,authoritarian,collectivist,low_inequality,low_labsh,high_mobility
+VNM,Vietnam,Asia,0.146,20.0,36.8,,0.35118878,authoritarian,collectivist,low_inequality,no_data,high_mobility
+VUT,Vanuatu,Oceania,0.729,,38.7,,0.47510615,democratic,no_data,low_inequality,no_data,mid
+YEM,Yemen,Asia,0.127,,38.5,,0.27207252,authoritarian,no_data,low_inequality,no_data,high_mobility
+ZAF,South Africa,Africa,0.743,,69.6,0.58238764469688,0.87220198,democratic,no_data,high_inequality,mid,low_mobility
+ZMB,Zambia,Africa,0.497,,57.1,0.4277130918226383,0.41763854,hybrid,no_data,high_inequality,low_labsh,mid
+ZWE,Zimbabwe,Africa,0.268,,49.6,0.5951306743281226,,authoritarian,no_data,high_inequality,high_labsh,no_data
